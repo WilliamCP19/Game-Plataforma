@@ -1,0 +1,5587 @@
+fileFormatVersion: 2
+guid: 0324598468e5a0e408875ff4b89f88a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5554104985473515643
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_0
+  - first:
+      213: 5435647388212071044
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_1
+  - first:
+      213: 4581029740432401704
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_2
+  - first:
+      213: -716047761617932716
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_3
+  - first:
+      213: -8270240105608967936
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_4
+  - first:
+      213: -2161615403433860438
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_5
+  - first:
+      213: -7857888228817801955
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_6
+  - first:
+      213: -3031069534283573404
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_7
+  - first:
+      213: 9085244900005232926
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_8
+  - first:
+      213: -8880989127546183556
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_9
+  - first:
+      213: 7062489730749907076
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_10
+  - first:
+      213: 427778141017808423
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_11
+  - first:
+      213: -6318202666785551680
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_12
+  - first:
+      213: -3711134079857292258
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_13
+  - first:
+      213: -594534284647222134
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_14
+  - first:
+      213: 6459432940213781403
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_15
+  - first:
+      213: 5043906842549762813
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_16
+  - first:
+      213: -9157488422365377322
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_17
+  - first:
+      213: -8878213479018279347
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_18
+  - first:
+      213: -3432121284963782928
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_19
+  - first:
+      213: -6703593021904750430
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_20
+  - first:
+      213: -2886194071419115630
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_21
+  - first:
+      213: 6262954723751068108
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_22
+  - first:
+      213: -2319031268513699949
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_23
+  - first:
+      213: 6699886348413968262
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_24
+  - first:
+      213: 5435930795406700412
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_25
+  - first:
+      213: 5734778518560948266
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_26
+  - first:
+      213: 5880734494486716208
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_27
+  - first:
+      213: 1697182221421359393
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_28
+  - first:
+      213: 1164018185167445606
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_29
+  - first:
+      213: 1756013026217626197
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_30
+  - first:
+      213: 9067695976849269586
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_31
+  - first:
+      213: 457931335010633838
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_32
+  - first:
+      213: 7180929733917038451
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_33
+  - first:
+      213: 876867633419492565
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_34
+  - first:
+      213: 1698148009798501948
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_35
+  - first:
+      213: 976020881615295676
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_36
+  - first:
+      213: -4008960837208951808
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_37
+  - first:
+      213: -7386147268935052826
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_38
+  - first:
+      213: -5272214859036302221
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_39
+  - first:
+      213: 2760462232842586006
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_40
+  - first:
+      213: -1633532747940228691
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_41
+  - first:
+      213: 3983566151131739075
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_42
+  - first:
+      213: -6039125528812905839
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_43
+  - first:
+      213: 951097930002499654
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_44
+  - first:
+      213: -9001370094854390814
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_45
+  - first:
+      213: -8023385510383928582
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_46
+  - first:
+      213: -1197924920145031482
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_47
+  - first:
+      213: -437606471411638823
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_48
+  - first:
+      213: 5016837383740971078
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_49
+  - first:
+      213: 7837326197019017703
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_50
+  - first:
+      213: -8430049231613543544
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_51
+  - first:
+      213: -4306810858120299178
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_52
+  - first:
+      213: 2315421668595765347
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_53
+  - first:
+      213: -1934186203196183026
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_54
+  - first:
+      213: -1195603334032852898
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_55
+  - first:
+      213: 6362061150441549294
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_56
+  - first:
+      213: 585239621719219532
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_57
+  - first:
+      213: -6826829728418332749
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_58
+  - first:
+      213: -2136833122010389178
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_59
+  - first:
+      213: -5995836874643040495
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_60
+  - first:
+      213: 7118005548485332938
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_61
+  - first:
+      213: 566033923654134568
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_62
+  - first:
+      213: -2046786314512646284
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_63
+  - first:
+      213: -6894108981932243515
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_64
+  - first:
+      213: -4950975312560648738
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_65
+  - first:
+      213: 7038332485283816820
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_66
+  - first:
+      213: 4728320954268177929
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_67
+  - first:
+      213: 3254552531899809842
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_68
+  - first:
+      213: 3891707431204754473
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_69
+  - first:
+      213: -7421748889076856307
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_70
+  - first:
+      213: -5026983380373031756
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_71
+  - first:
+      213: -1057957736808607314
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_72
+  - first:
+      213: 9182637131175887109
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_73
+  - first:
+      213: -4153539424670478252
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_74
+  - first:
+      213: 393341743184946777
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_75
+  - first:
+      213: -8210509826182201647
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_76
+  - first:
+      213: -3063932676053489867
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_77
+  - first:
+      213: -2719274739510701268
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_78
+  - first:
+      213: 3921891747552333114
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_79
+  - first:
+      213: -4886920984600921092
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_80
+  - first:
+      213: 1419154361462631253
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_81
+  - first:
+      213: -2822095263467074017
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_82
+  - first:
+      213: -7695001105265517111
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_83
+  - first:
+      213: 4126189338139016936
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_84
+  - first:
+      213: -4628310592340791937
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_85
+  - first:
+      213: 5038519638773284643
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_86
+  - first:
+      213: -8996709365363391547
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_87
+  - first:
+      213: 1312411358011908041
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_88
+  - first:
+      213: -666310065090363352
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_89
+  - first:
+      213: 4699907515256455676
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_90
+  - first:
+      213: -173716816778914896
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_91
+  - first:
+      213: 8078170906380329265
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_92
+  - first:
+      213: -2885351096765704509
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_93
+  - first:
+      213: -2780872357712663735
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_94
+  - first:
+      213: -9197702837455227635
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_95
+  - first:
+      213: 9089097727072733243
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_96
+  - first:
+      213: 2963438355957142526
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_97
+  - first:
+      213: -1693737646037707421
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_98
+  - first:
+      213: -195976420309214710
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_99
+  - first:
+      213: 5142567346517326486
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_100
+  - first:
+      213: 6641123612408562727
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_101
+  - first:
+      213: 5095461292237977105
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_102
+  - first:
+      213: 7340501861089631753
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_103
+  - first:
+      213: -7071216819812698912
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_104
+  - first:
+      213: -7582322665726983712
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_105
+  - first:
+      213: -2721491528815722397
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_106
+  - first:
+      213: -2124718934845796593
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_107
+  - first:
+      213: -8040122966809050323
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_108
+  - first:
+      213: 4439933054364211021
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_109
+  - first:
+      213: 4809824966472471538
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_110
+  - first:
+      213: -3169686523190232323
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_111
+  - first:
+      213: 5349530462665587270
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_112
+  - first:
+      213: -7969186034721926537
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_113
+  - first:
+      213: 6612995020371387769
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_114
+  - first:
+      213: 537512971176870909
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_115
+  - first:
+      213: -4550991136223075710
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_116
+  - first:
+      213: -8909465808704861618
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_117
+  - first:
+      213: 766909471720059055
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_118
+  - first:
+      213: -944655779102919362
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_119
+  - first:
+      213: -3081603801615356218
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_120
+  - first:
+      213: -8178780943221345563
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_121
+  - first:
+      213: -971890201292112998
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_122
+  - first:
+      213: 1241345739007186948
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_123
+  - first:
+      213: 5889441218823388351
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_124
+  - first:
+      213: 5684955301982904242
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_125
+  - first:
+      213: -6473634317210073457
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_126
+  - first:
+      213: 3749976550324747422
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_127
+  - first:
+      213: -2881078787530401320
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_128
+  - first:
+      213: 146438327577005039
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_129
+  - first:
+      213: -2112272986099597398
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_130
+  - first:
+      213: 1967934944044613204
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_131
+  - first:
+      213: 7409665028352643145
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_132
+  - first:
+      213: 2769434930423092790
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_133
+  - first:
+      213: -8323216289627379969
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_134
+  - first:
+      213: 7485868456897568220
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_135
+  - first:
+      213: -1327843112819243641
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_136
+  - first:
+      213: -6051506908297235638
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_137
+  - first:
+      213: 2175023333840063248
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_138
+  - first:
+      213: -7233893439294174557
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_139
+  - first:
+      213: -4101592724901257297
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_140
+  - first:
+      213: 165767463219403021
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_141
+  - first:
+      213: -8166802362381988818
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_142
+  - first:
+      213: -862783327984886770
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_143
+  - first:
+      213: 1083624610755236797
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_144
+  - first:
+      213: -3442296336912794450
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_145
+  - first:
+      213: -7756003832569618129
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_146
+  - first:
+      213: 467905042757881297
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_147
+  - first:
+      213: -8211975013192493613
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_148
+  - first:
+      213: 4744543025400099784
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_149
+  - first:
+      213: -541712711871507898
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_150
+  - first:
+      213: -1096434094386297103
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_151
+  - first:
+      213: 2400571012993770560
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_152
+  - first:
+      213: -7541484685894140706
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_153
+  - first:
+      213: 4186692140457882234
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_154
+  - first:
+      213: -4813925262893914149
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_155
+  - first:
+      213: -1558994052793022614
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_156
+  - first:
+      213: -3998514203994996861
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_157
+  - first:
+      213: 155863643855285228
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_158
+  - first:
+      213: -5593696245934616865
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_159
+  - first:
+      213: -2991280502497138967
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_160
+  - first:
+      213: -1207847262919470680
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_161
+  - first:
+      213: 4537799803052031692
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_162
+  - first:
+      213: -4971231368607551314
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_163
+  - first:
+      213: -8611523057440501969
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_164
+  - first:
+      213: 4980684777950643497
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_165
+  - first:
+      213: 3849568012739888070
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_166
+  - first:
+      213: 1854229086659984295
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_167
+  - first:
+      213: 3566419144048963266
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_168
+  - first:
+      213: -2964461916731272307
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_169
+  - first:
+      213: -2168827063641815667
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_170
+  - first:
+      213: -484566948536589806
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_171
+  - first:
+      213: -2210273255881964415
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_172
+  - first:
+      213: 7393213926890047844
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_173
+  - first:
+      213: -1732407867056603070
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_174
+  - first:
+      213: -6839955757661624237
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_175
+  - first:
+      213: 4476230107251702917
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_176
+  - first:
+      213: 575144021640656062
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_177
+  - first:
+      213: -1792412586737730137
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_178
+  - first:
+      213: -503179753913731612
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_179
+  - first:
+      213: -110546085701975620
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_180
+  - first:
+      213: -3768048402125132150
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_181
+  - first:
+      213: -2458436417783486786
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_182
+  - first:
+      213: 8289912284457602754
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_183
+  - first:
+      213: 2509279523776676602
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_184
+  - first:
+      213: -7054177742447548746
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_185
+  - first:
+      213: -8556736281459155565
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_186
+  - first:
+      213: 64849816142711547
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_187
+  - first:
+      213: -1559597804670732883
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_188
+  - first:
+      213: 836109168172965049
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_189
+  - first:
+      213: 1650420996117640907
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_190
+  - first:
+      213: 3462640072212509815
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_191
+  - first:
+      213: 2034373303724155367
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_192
+  - first:
+      213: 5189859805729871987
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_193
+  - first:
+      213: -2349282510832629168
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_194
+  - first:
+      213: -3328016140989034417
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_195
+  - first:
+      213: -5075910760620581457
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_196
+  - first:
+      213: 7599014955286547481
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_197
+  - first:
+      213: -2731843596071447823
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_198
+  - first:
+      213: 3224010694111892965
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_199
+  - first:
+      213: 3275958859860529367
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_200
+  - first:
+      213: -6200525484556317606
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_201
+  - first:
+      213: 6442343870421944264
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_202
+  - first:
+      213: -38778365286911459
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_203
+  - first:
+      213: 1475028017689610929
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_204
+  - first:
+      213: -8357706515806389432
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_205
+  - first:
+      213: -1998827308610359952
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_206
+  - first:
+      213: -5271861468564129043
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_207
+  - first:
+      213: 4835242325834104360
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_208
+  - first:
+      213: -3801566163938087850
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_209
+  - first:
+      213: 6114468511432085215
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_210
+  - first:
+      213: 3297140418634154654
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_211
+  - first:
+      213: 46123687815461637
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_212
+  - first:
+      213: 250634848341688961
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_213
+  - first:
+      213: 2338283176266288039
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_214
+  - first:
+      213: -8010205424840910318
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_215
+  - first:
+      213: 8086505223004239186
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_216
+  - first:
+      213: 5599102451527941266
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_217
+  - first:
+      213: 166881498268476926
+    second: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_218
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_0
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 924
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b700060be05241d40800000000000000
+      internalID: 5554104985473515643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 886
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a09a2108c4f6b40800000000000000
+      internalID: 5435647388212071044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 886
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82529ff0746139f30800000000000000
+      internalID: 4581029740432401704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 886
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eac86ca561016f0800000000000000
+      internalID: -716047761617932716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 886
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0090df901743a3d80800000000000000
+      internalID: -8270240105608967936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 886
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2ef494e366002e0800000000000000
+      internalID: -2161615403433860438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 886
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d679ce94c23f290800000000000000
+      internalID: -7857888228817801955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 886
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467d48f515a7fe5d0800000000000000
+      internalID: -3031069534283573404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 886
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11cd32d916451e70800000000000000
+      internalID: 9085244900005232926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 886
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e086217360c480800000000000000
+      internalID: -8880989127546183556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_10
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 886
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480413fcdf0030260800000000000000
+      internalID: 7062489730749907076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 886
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e1b0ae3f5cfe500800000000000000
+      internalID: 427778141017808423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 886
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca425b562c3158a0800000000000000
+      internalID: -6318202666785551680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c824087376f7cc0800000000000000
+      internalID: -3711134079857292258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 846
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84bfc4d73acfb7f0800000000000000
+      internalID: -594534284647222134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9346eb190484a950800000000000000
+      internalID: 6459432940213781403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_16
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 846
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa375eac8e8ff540800000000000000
+      internalID: 5043906842549762813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 846
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc82e5cc01ae080800000000000000
+      internalID: -9157488422365377322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 846
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ec70f21ef3ac480800000000000000
+      internalID: -8878213479018279347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe2daf10e7ae50d0800000000000000
+      internalID: -3432121284963782928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_20
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8749ae9ad08f2a0800000000000000
+      internalID: -6703593021904750430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297a934a8cd22f7d0800000000000000
+      internalID: -2886194071419115630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 846
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc18981832c7ae650800000000000000
+      internalID: 6262954723751068108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_23
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 846
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a739195521dfd0800000000000000
+      internalID: -2319031268513699949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 846
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f14b8e227cafc50800000000000000
+      internalID: 6699886348413968262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_25
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 846
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa2d3f14e407b40800000000000000
+      internalID: 5435930795406700412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 846
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20cd50bda6069f40800000000000000
+      internalID: 5734778518560948266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_27
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 846
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f54428dd09c9150800000000000000
+      internalID: 5880734494486716208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_28
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 846
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121bde20d3a9d8710800000000000000
+      internalID: 1697182221421359393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 802
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e10074f5c672010800000000000000
+      internalID: 1164018185167445606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 802
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a09a82b8c9e5810800000000000000
+      internalID: 1756013026217626197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 802
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e65fb27de6dd70800000000000000
+      internalID: 9067695976849269586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 802
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6844da7f16ea5600800000000000000
+      internalID: 457931335010633838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 802
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775a2bfb89c7a360800000000000000
+      internalID: 7180929733917038451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 805
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc910d77724b2c00800000000000000
+      internalID: 876867633419492565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_35
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 804
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3683142e98019710800000000000000
+      internalID: 1698148009798501948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_36
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 806
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb41b0612d58b8d00800000000000000
+      internalID: 976020881615295676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_37
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 802
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00435b3eb5f4d58c0800000000000000
+      internalID: -4008960837208951808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 802
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1976041322f7990800000000000000
+      internalID: -7386147268935052826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 802
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ea93e48455d6b0800000000000000
+      internalID: -5272214859036302221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_40
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 805
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697c67476c12f4620800000000000000
+      internalID: 2760462232842586006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 805
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da11e0ede968459e0800000000000000
+      internalID: -1633532747940228691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 804
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c33a710f48784730800000000000000
+      internalID: 3983566151131739075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 802
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a1d150457b03ca0800000000000000
+      internalID: -6039125528812905839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 758
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6488868378af23d00800000000000000
+      internalID: 951097930002499654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_45
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 758
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb316c0795b41380800000000000000
+      internalID: -9001370094854390814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 758
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afabc85536537a090800000000000000
+      internalID: -8023385510383928582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 758
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceca2bc1ad106fe0800000000000000
+      internalID: -1197924920145031482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 758
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddd8189b3f4de9f0800000000000000
+      internalID: -437606471411638823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 760
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648d7c925036f9540800000000000000
+      internalID: 5016837383740971078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 762
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e18e2af6a6c3cc60800000000000000
+      internalID: 7837326197019017703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 762
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bbe9e53e2720b80800000000000000
+      internalID: -8430049231613543544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_52
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 758
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db1fec7522b34c0800000000000000
+      internalID: -4306810858120299178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_53
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 758
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36094ed6db7022020800000000000000
+      internalID: 2315421668595765347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_54
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 758
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ea70d55e36825e0800000000000000
+      internalID: -1934186203196183026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_55
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 759
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f2be2a1d586fe0800000000000000
+      internalID: -1195603334032852898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 763
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda16f98e49a4850800000000000000
+      internalID: 6362061150441549294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 759
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dde01d5503f1800800000000000000
+      internalID: 585239621719219532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_58
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 758
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7c87388a3241a0800000000000000
+      internalID: -6826829728418332749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 712
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6452842d8917852e0800000000000000
+      internalID: -2136833122010389178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 712
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11796bb31228acca0800000000000000
+      internalID: -5995836874643040495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 717
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4ab2655c38c260800000000000000
+      internalID: 7118005548485332938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_62
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 717
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba936cad4fad700800000000000000
+      internalID: 566033923654134568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 720
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fb758f0ba5893e0800000000000000
+      internalID: -2046786314512646284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_64
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 720
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5491158643350a0800000000000000
+      internalID: -6894108981932243515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_65
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 714
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd08134f2a9a4bb0800000000000000
+      internalID: -4950975312560648738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 713
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4752f6cca1e2da160800000000000000
+      internalID: 7038332485283816820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_67
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 712
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906d03f2bde5e9140800000000000000
+      internalID: 4728320954268177929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 712
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2308cbec84e7a2d20800000000000000
+      internalID: 3254552531899809842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_69
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 717
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92415be1a4f120630800000000000000
+      internalID: 3891707431204754473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_70
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 717
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8c6e15b6a00990800000000000000
+      internalID: -7421748889076856307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_71
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 720
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b219ef319c3ab0800000000000000
+      internalID: -5026983380373031756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_72
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 720
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1952e2b016151f0800000000000000
+      internalID: -1057957736808607314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_73
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 714
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5010d01b1d74f6f70800000000000000
+      internalID: 9182637131175887109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_74
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 713
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4509fef46e9ab56c0800000000000000
+      internalID: -4153539424670478252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 667
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9562fdd3b3e657500800000000000000
+      internalID: 393341743184946777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 667
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3e8170d86e0e80800000000000000
+      internalID: -8210509826182201647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_77
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 667
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537ae1ce679ba75d0800000000000000
+      internalID: -3063932676053489867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 667
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2395c02802334ad0800000000000000
+      internalID: -2719274739510701268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_79
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 667
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d846ce3cb5d6630800000000000000
+      internalID: 3921891747552333114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_80
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 667
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbb57ba14b2e2cb0800000000000000
+      internalID: -4886920984600921092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 667
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b2d6c6f59d1b310800000000000000
+      internalID: 1419154361462631253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_82
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 667
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e8bba5f47e5d8d0800000000000000
+      internalID: -2822095263467074017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_83
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 667
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd196eb34dd53590800000000000000
+      internalID: -7695001105265517111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_84
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 666
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb7cf675b234930800000000000000
+      internalID: 4126189338139016936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_85
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 666
+        width: 218
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d6951c900f4cfb0800000000000000
+      internalID: -4628310592340791937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_86
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 612
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f39ee8aea6ce540800000000000000
+      internalID: 5038519638773284643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_87
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 611
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3c512bf74452380800000000000000
+      internalID: -8996709365363391547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_88
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 620
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfdc793d2f963210800000000000000
+      internalID: 1312411358011908041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 620
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820850ca68ac0c6f0800000000000000
+      internalID: -666310065090363352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 612
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1cc04ebfc693140800000000000000
+      internalID: 4699907515256455676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_91
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 612
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3916cb975d69df0800000000000000
+      internalID: -173716816778914896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 620
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131e1bda3ad6b1070800000000000000
+      internalID: 8078170906380329265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 620
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c61ff8f67c25f7d0800000000000000
+      internalID: -2885351096765704509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 616
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b65d8035b5869d0800000000000000
+      internalID: -2780872357712663735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_95
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 617
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05f0e730023b5080800000000000000
+      internalID: -9197702837455227635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_96
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 618
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380bf60a36f22e70800000000000000
+      internalID: 9089097727072733243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_97
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 617
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d798db7f302920800000000000000
+      internalID: 2963438355957142526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_98
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 617
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3655731b592ae78e0800000000000000
+      internalID: -1693737646037707421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_99
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 616
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0add1beb70c74df0800000000000000
+      internalID: -195976420309214710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_100
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 616
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a30b251c11e5740800000000000000
+      internalID: 5142567346517326486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 616
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72442134db20a2c50800000000000000
+      internalID: 6641123612408562727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_102
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 564
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116f8926c07b6b640800000000000000
+      internalID: 5095461292237977105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_103
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 564
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e575f0d83bed560800000000000000
+      internalID: 7340501861089631753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_104
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 564
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4fb4d64cdfddd90800000000000000
+      internalID: -7071216819812698912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_105
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 350
+        width: 321
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e143f855bd26c690800000000000000
+      internalID: -7582322665726983712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_106
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 515
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36044b5afd15b3ad0800000000000000
+      internalID: -2721491528815722397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_107
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 514
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f48f0d26b7382e0800000000000000
+      internalID: -2124718934845796593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_108
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 514
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2303e492cebb6090800000000000000
+      internalID: -8040122966809050323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_109
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 515
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d4e3d69fcd9d30800000000000000
+      internalID: 4439933054364211021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_110
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 516
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3956ec25eefb240800000000000000
+      internalID: 4809824966472471538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_111
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 515
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa37ef96e20304d0800000000000000
+      internalID: -3169686523190232323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_112
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 514
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a305edc995d3a40800000000000000
+      internalID: 5349530462665587270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_113
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 514
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77255632683c76190800000000000000
+      internalID: -7969186034721926537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_114
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 461
+        width: 111
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e9a21fe316cb50800000000000000
+      internalID: 6612995020371387769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_115
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 461
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3892d0331a57700800000000000000
+      internalID: 537512971176870909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_116
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 462
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e87d7ca1a7d0c0800000000000000
+      internalID: -4550991136223075710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_117
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 411
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a88a52d083b5480800000000000000
+      internalID: -8909465808704861618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_118
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 411
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b1cce91c94aa00800000000000000
+      internalID: 766909471720059055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_119
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 409
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35fc8be298e3e2f0800000000000000
+      internalID: -944655779102919362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_120
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 409
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce29326ba1fb35d0800000000000000
+      internalID: -3081603801615356218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_121
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 411
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2be8fa0122f7e80800000000000000
+      internalID: -8178780943221345563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_122
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 409
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bfc4fd2072382f0800000000000000
+      internalID: -971890201292112998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_123
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 355
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d7f86f552a3110800000000000000
+      internalID: 1241345739007186948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_124
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 355
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcf28db59f7bb150800000000000000
+      internalID: 5889441218823388351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_125
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 355
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf1aaa1ab405ee40800000000000000
+      internalID: 5684955301982904242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_126
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 355
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f864ae423e70926a0800000000000000
+      internalID: -6473634317210073457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_127
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 350
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb626edc79a0430800000000000000
+      internalID: 3749976550324747422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_128
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 360
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9565b7b1a5408d0800000000000000
+      internalID: -2881078787530401320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_129
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 361
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febcab012e0480200800000000000000
+      internalID: 146438327577005039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 361
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf31e219e2bfa2e0800000000000000
+      internalID: -2112272986099597398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_131
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 297
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e7bd0b7628f4b10800000000000000
+      internalID: 1967934944044613204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_132
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940189fc51b64d660800000000000000
+      internalID: 7409665028352643145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_133
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 297
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6365d6865620f6620800000000000000
+      internalID: 2769434930423092790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_134
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 297
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e30402eefd7c80800000000000000
+      internalID: -8323216289627379969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_135
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 296
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd5ea023b523e760800000000000000
+      internalID: 7485868456897568220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_136
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 296
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c5fe59bd829de0800000000000000
+      internalID: -1327843112819243641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_137
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 295
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43fe17778ab40ca0800000000000000
+      internalID: -6051506908297235638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_138
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 296
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b09b7c23c3f2e10800000000000000
+      internalID: 2175023333840063248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_139
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 296
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa87d76e3c0c9b90800000000000000
+      internalID: -7233893439294174557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_140
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 297
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1fead5273417c0800000000000000
+      internalID: -4101592724901257297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_141
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 297
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09928821acec4200800000000000000
+      internalID: 165767463219403021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_142
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 297
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c866f5580b9ae80800000000000000
+      internalID: -8166802362381988818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_143
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 297
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cd4596227c604f0800000000000000
+      internalID: -862783327984886770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_144
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 298
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3dfe997dec90f00800000000000000
+      internalID: 1083624610755236797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_145
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 298
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac3faa38b18a30d0800000000000000
+      internalID: -3442296336912794450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_146
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ae1b7b932d5490800000000000000
+      internalID: -7756003832569618129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_147
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 247
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd823648255e7600800000000000000
+      internalID: 467905042757881297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_148
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 246
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d517420c34390e80800000000000000
+      internalID: -8211975013192493613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_149
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 246
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3b7827eb008d140800000000000000
+      internalID: 4744543025400099784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_150
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 246
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642d59e98237b78f0800000000000000
+      internalID: -541712711871507898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_151
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 245
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f64a74100fa8c0f0800000000000000
+      internalID: -1096434094386297103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_152
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 244
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044e7971e9a805120800000000000000
+      internalID: 2400571012993770560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_153
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 244
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc3b3a72a3475790800000000000000
+      internalID: -7541484685894140706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_154
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 244
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7279e7d15e1a1a30800000000000000
+      internalID: 4186692140457882234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_155
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 244
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ede98a70813db0800000000000000
+      internalID: -4813925262893914149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_156
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 243
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67435c3b275d5ae0800000000000000
+      internalID: -1558994052793022614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_157
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 244
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f3689348c6288c0800000000000000
+      internalID: -3998514203994996861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_158
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 244
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb6465882db92200800000000000000
+      internalID: 155863643855285228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_159
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 242
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde81a7a6e23f52b0800000000000000
+      internalID: -5593696245934616865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_160
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 242
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e62b114b36dc76d0800000000000000
+      internalID: -2991280502497138967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_161
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 241
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1d1c6505ddc3fe0800000000000000
+      internalID: -1207847262919470680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_162
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 241
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccef0cae0e089fe30800000000000000
+      internalID: 4537799803052031692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_163
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 188
+        width: 110
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea03ed1b863a20bb0800000000000000
+      internalID: -4971231368607551314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_164
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 185
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f4c22b769bd7880800000000000000
+      internalID: -8611523057440501969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_165
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 186
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92581ffaa62fe1540800000000000000
+      internalID: 4980684777950643497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_166
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 186
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3411236b96c6530800000000000000
+      internalID: 3849568012739888070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_167
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 185
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb09ab78b8bb910800000000000000
+      internalID: 1854229086659984295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_168
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 189
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee039d0577e7130800000000000000
+      internalID: 3566419144048963266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_169
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 189
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d831f07d79d1cd6d0800000000000000
+      internalID: -2964461916731272307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_170
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 188
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85406cc647c6e1e0800000000000000
+      internalID: -2168827063641815667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_171
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 188
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e49a7de87649f0800000000000000
+      internalID: -484566948536589806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_172
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 189
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1840c9e2f288351e0800000000000000
+      internalID: -2210273255881964415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_173
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 189
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46980c445e8f99660800000000000000
+      internalID: 7393213926890047844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_174
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 189
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240cffd393045f7e0800000000000000
+      internalID: -1732407867056603070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_175
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 189
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358e0316a789311a0800000000000000
+      internalID: -6839955757661624237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_176
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c75a30193ce1e30800000000000000
+      internalID: 4476230107251702917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_177
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 189
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4b490c0725bf700800000000000000
+      internalID: 575144021640656062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_178
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 138
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adfe8cbf321027e0800000000000000
+      internalID: -1792412586737730137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_179
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 138
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5bdc50ea85409f0800000000000000
+      internalID: -503179753913731612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_180
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 138
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb18c66bbe2477ef0800000000000000
+      internalID: -110546085701975620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_181
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 138
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6ad631f335bbc0800000000000000
+      internalID: -3768048402125132150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_182
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 138
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6a1277a11e1edd0800000000000000
+      internalID: -2458436417783486786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_183
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 138
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0e360d4fab0370800000000000000
+      internalID: 8289912284457602754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_184
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 137
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2ced0ae60c2d220800000000000000
+      internalID: 2509279523776676602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_185
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 136
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b662f6c7b68a1e90800000000000000
+      internalID: -7054177742447548746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_186
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 136
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d1ee200bd504980800000000000000
+      internalID: -8556736281459155565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_187
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8fee609466e000800000000000000
+      internalID: 64849816142711547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_188
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 94
+        width: 74
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da53f1c4f023b5ae0800000000000000
+      internalID: -1559597804670732883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_189
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 94
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc956acbd47a9b00800000000000000
+      internalID: 836109168172965049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_190
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 94
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc63073d62977e610800000000000000
+      internalID: 1650420996117640907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_191
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 93
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747241ccc4cd0030800000000000000
+      internalID: 3462640072212509815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_192
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 94
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1240dbdbb8b3c10800000000000000
+      internalID: 2034373303724155367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_193
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 94
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785b9a0ff5160840800000000000000
+      internalID: 5189859805729871987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_194
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 93
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a88c0e00ca56fd0800000000000000
+      internalID: -2349282510832629168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_195
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 94
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40159dc3f280d1d0800000000000000
+      internalID: -3328016140989034417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_196
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 94
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad90a97e0ebe89b0800000000000000
+      internalID: -5075910760620581457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_197
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 94
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c4cbc27df157960800000000000000
+      internalID: 7599014955286547481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_198
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 94
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f25c3a29ba861ad0800000000000000
+      internalID: -2731843596071447823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_199
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 94
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5999e05acfdbc20800000000000000
+      internalID: 3224010694111892965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_200
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 94
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d7cce93b867d20800000000000000
+      internalID: 3275958859860529367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_201
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 94
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c83407cee43f9a0800000000000000
+      internalID: -6200525484556317606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_202
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 94
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c74a6dfd9dc76950800000000000000
+      internalID: 6442343870421944264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_203
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 94
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d127a10484b367ff0800000000000000
+      internalID: -38778365286911459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_204
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 94
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba4324ca2a587410800000000000000
+      internalID: 1475028017689610929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_205
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 94
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b74647436730c80800000000000000
+      internalID: -8357706515806389432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_206
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 94
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dedee272db244e0800000000000000
+      internalID: -1998827308610359952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_207
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea7a250de596d6b0800000000000000
+      internalID: -5271861468564129043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_208
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 47
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e7642f64b3a1340800000000000000
+      internalID: 4835242325834104360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_209
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 47
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c635827bf1e3bc0800000000000000
+      internalID: -3801566163938087850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde883e17b4fad450800000000000000
+      internalID: 6114468511432085215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_211
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 251
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e928543edbbc1cd20800000000000000
+      internalID: 3297140418634154654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_212
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 47
+        width: 219
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb8fbef3dd3a000800000000000000
+      internalID: 46123687815461637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_213
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 47
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1828dbf011f6a7300800000000000000
+      internalID: 250634848341688961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_214
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 47
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcf99f820437020800000000000000
+      internalID: 2338283176266288039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_215
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 12
+        width: 154
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a53722b9806d090800000000000000
+      internalID: -8010205424840910318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_216
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 15
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255328bf7a9093070800000000000000
+      internalID: 8086505223004239186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_217
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c775ca30204bd40800000000000000
+      internalID: 5599102451527941266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_218
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 104
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a0e7a6d1e05200800000000000000
+      internalID: 166881498268476926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_0: 5554104985473515643
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_1: 5435647388212071044
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_10: 7062489730749907076
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_100: 5142567346517326486
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_101: 6641123612408562727
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_102: 5095461292237977105
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_103: 7340501861089631753
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_104: -7071216819812698912
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_105: -7582322665726983712
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_106: -2721491528815722397
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_107: -2124718934845796593
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_108: -8040122966809050323
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_109: 4439933054364211021
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_11: 427778141017808423
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_110: 4809824966472471538
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_111: -3169686523190232323
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_112: 5349530462665587270
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_113: -7969186034721926537
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_114: 6612995020371387769
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_115: 537512971176870909
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_116: -4550991136223075710
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_117: -8909465808704861618
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_118: 766909471720059055
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_119: -944655779102919362
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_12: -6318202666785551680
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_120: -3081603801615356218
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_121: -8178780943221345563
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_122: -971890201292112998
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_123: 1241345739007186948
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_124: 5889441218823388351
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_125: 5684955301982904242
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_126: -6473634317210073457
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_127: 3749976550324747422
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_128: -2881078787530401320
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_129: 146438327577005039
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_13: -3711134079857292258
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_130: -2112272986099597398
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_131: 1967934944044613204
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_132: 7409665028352643145
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_133: 2769434930423092790
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_134: -8323216289627379969
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_135: 7485868456897568220
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_136: -1327843112819243641
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_137: -6051506908297235638
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_138: 2175023333840063248
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_139: -7233893439294174557
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_14: -594534284647222134
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_140: -4101592724901257297
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_141: 165767463219403021
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_142: -8166802362381988818
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_143: -862783327984886770
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_144: 1083624610755236797
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_145: -3442296336912794450
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_146: -7756003832569618129
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_147: 467905042757881297
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_148: -8211975013192493613
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_149: 4744543025400099784
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_15: 6459432940213781403
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_150: -541712711871507898
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_151: -1096434094386297103
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_152: 2400571012993770560
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_153: -7541484685894140706
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_154: 4186692140457882234
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_155: -4813925262893914149
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_156: -1558994052793022614
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_157: -3998514203994996861
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_158: 155863643855285228
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_159: -5593696245934616865
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_16: 5043906842549762813
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_160: -2991280502497138967
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_161: -1207847262919470680
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_162: 4537799803052031692
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_163: -4971231368607551314
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_164: -8611523057440501969
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_165: 4980684777950643497
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_166: 3849568012739888070
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_167: 1854229086659984295
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_168: 3566419144048963266
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_169: -2964461916731272307
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_17: -9157488422365377322
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_170: -2168827063641815667
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_171: -484566948536589806
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_172: -2210273255881964415
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_173: 7393213926890047844
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_174: -1732407867056603070
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_175: -6839955757661624237
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_176: 4476230107251702917
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_177: 575144021640656062
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_178: -1792412586737730137
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_179: -503179753913731612
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_18: -8878213479018279347
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_180: -110546085701975620
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_181: -3768048402125132150
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_182: -2458436417783486786
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_183: 8289912284457602754
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_184: 2509279523776676602
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_185: -7054177742447548746
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_186: -8556736281459155565
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_187: 64849816142711547
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_188: -1559597804670732883
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_189: 836109168172965049
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_19: -3432121284963782928
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_190: 1650420996117640907
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_191: 3462640072212509815
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_192: 2034373303724155367
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_193: 5189859805729871987
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_194: -2349282510832629168
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_195: -3328016140989034417
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_196: -5075910760620581457
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_197: 7599014955286547481
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_198: -2731843596071447823
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_199: 3224010694111892965
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_2: 4581029740432401704
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_20: -6703593021904750430
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_200: 3275958859860529367
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_201: -6200525484556317606
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_202: 6442343870421944264
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_203: -38778365286911459
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_204: 1475028017689610929
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_205: -8357706515806389432
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_206: -1998827308610359952
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_207: -5271861468564129043
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_208: 4835242325834104360
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_209: -3801566163938087850
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_21: -2886194071419115630
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_210: 6114468511432085215
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_211: 3297140418634154654
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_212: 46123687815461637
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_213: 250634848341688961
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_214: 2338283176266288039
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_215: -8010205424840910318
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_216: 8086505223004239186
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_217: 5599102451527941266
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_218: 166881498268476926
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_22: 6262954723751068108
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_23: -2319031268513699949
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_24: 6699886348413968262
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_25: 5435930795406700412
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_26: 5734778518560948266
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_27: 5880734494486716208
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_28: 1697182221421359393
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_29: 1164018185167445606
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_3: -716047761617932716
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_30: 1756013026217626197
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_31: 9067695976849269586
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_32: 457931335010633838
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_33: 7180929733917038451
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_34: 876867633419492565
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_35: 1698148009798501948
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_36: 976020881615295676
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_37: -4008960837208951808
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_38: -7386147268935052826
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_39: -5272214859036302221
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_4: -8270240105608967936
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_40: 2760462232842586006
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_41: -1633532747940228691
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_42: 3983566151131739075
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_43: -6039125528812905839
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_44: 951097930002499654
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_45: -9001370094854390814
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_46: -8023385510383928582
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_47: -1197924920145031482
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_48: -437606471411638823
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_49: 5016837383740971078
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_5: -2161615403433860438
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_50: 7837326197019017703
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_51: -8430049231613543544
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_52: -4306810858120299178
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_53: 2315421668595765347
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_54: -1934186203196183026
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_55: -1195603334032852898
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_56: 6362061150441549294
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_57: 585239621719219532
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_58: -6826829728418332749
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_59: -2136833122010389178
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_6: -7857888228817801955
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_60: -5995836874643040495
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_61: 7118005548485332938
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_62: 566033923654134568
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_63: -2046786314512646284
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_64: -6894108981932243515
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_65: -4950975312560648738
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_66: 7038332485283816820
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_67: 4728320954268177929
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_68: 3254552531899809842
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_69: 3891707431204754473
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_7: -3031069534283573404
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_70: -7421748889076856307
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_71: -5026983380373031756
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_72: -1057957736808607314
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_73: 9182637131175887109
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_74: -4153539424670478252
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_75: 393341743184946777
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_76: -8210509826182201647
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_77: -3063932676053489867
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_78: -2719274739510701268
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_79: 3921891747552333114
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_8: 9085244900005232926
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_80: -4886920984600921092
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_81: 1419154361462631253
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_82: -2822095263467074017
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_83: -7695001105265517111
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_84: 4126189338139016936
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_85: -4628310592340791937
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_86: 5038519638773284643
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_87: -8996709365363391547
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_88: 1312411358011908041
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_89: -666310065090363352
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_9: -8880989127546183556
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_90: 4699907515256455676
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_91: -173716816778914896
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_92: 8078170906380329265
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_93: -2885351096765704509
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_94: -2780872357712663735
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_95: -9197702837455227635
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_96: 9089097727072733243
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_97: 2963438355957142526
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_98: -1693737646037707421
+      crash_bandicoot_2020___custom_sprite_sheet_by_fiercethebandit_de3cka5-pre_99: -195976420309214710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

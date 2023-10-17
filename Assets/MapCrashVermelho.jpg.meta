@@ -1,0 +1,1912 @@
+fileFormatVersion: 2
+guid: 615d56212b080ca4b959ace262cb9559
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2737842302904150772
+    second: MapCrashVermelho_0
+  - first:
+      213: 6877586799161350212
+    second: MapCrashVermelho_1
+  - first:
+      213: -2450202308415833539
+    second: MapCrashVermelho_2
+  - first:
+      213: 4545887421085541081
+    second: MapCrashVermelho_3
+  - first:
+      213: -7808191789231476117
+    second: MapCrashVermelho_4
+  - first:
+      213: 8197837837770909020
+    second: MapCrashVermelho_5
+  - first:
+      213: -2945534314207381156
+    second: MapCrashVermelho_6
+  - first:
+      213: -6501437900051677314
+    second: MapCrashVermelho_7
+  - first:
+      213: 8502022299185344538
+    second: MapCrashVermelho_8
+  - first:
+      213: -1724122044090579556
+    second: MapCrashVermelho_9
+  - first:
+      213: -7203659162454178621
+    second: MapCrashVermelho_10
+  - first:
+      213: -3458593181224931568
+    second: MapCrashVermelho_11
+  - first:
+      213: -5376230797655009381
+    second: MapCrashVermelho_12
+  - first:
+      213: -7301561887373472011
+    second: MapCrashVermelho_13
+  - first:
+      213: -4469671866097715563
+    second: MapCrashVermelho_14
+  - first:
+      213: 4873746377894966329
+    second: MapCrashVermelho_15
+  - first:
+      213: -1479774308304697660
+    second: MapCrashVermelho_16
+  - first:
+      213: -6874971670787926549
+    second: MapCrashVermelho_17
+  - first:
+      213: 1812049594708573301
+    second: MapCrashVermelho_18
+  - first:
+      213: -9082994402096558101
+    second: MapCrashVermelho_19
+  - first:
+      213: 211774385637628829
+    second: MapCrashVermelho_20
+  - first:
+      213: 3004964871077059728
+    second: MapCrashVermelho_21
+  - first:
+      213: -1672740425146210743
+    second: MapCrashVermelho_22
+  - first:
+      213: -1144148963038435972
+    second: MapCrashVermelho_23
+  - first:
+      213: -5748260408625099245
+    second: MapCrashVermelho_24
+  - first:
+      213: 7014209600618450518
+    second: MapCrashVermelho_25
+  - first:
+      213: -2991330122846012476
+    second: MapCrashVermelho_26
+  - first:
+      213: -5551992669796628818
+    second: MapCrashVermelho_27
+  - first:
+      213: -4389995875766200781
+    second: MapCrashVermelho_28
+  - first:
+      213: 3538462853180699127
+    second: MapCrashVermelho_29
+  - first:
+      213: 3635425543814964546
+    second: MapCrashVermelho_30
+  - first:
+      213: 4790470438238875793
+    second: MapCrashVermelho_31
+  - first:
+      213: 2444775792051251072
+    second: MapCrashVermelho_32
+  - first:
+      213: 2348868357999138158
+    second: MapCrashVermelho_33
+  - first:
+      213: 1418205217134122726
+    second: MapCrashVermelho_34
+  - first:
+      213: 535126048767831770
+    second: MapCrashVermelho_35
+  - first:
+      213: -7508541797444909937
+    second: MapCrashVermelho_36
+  - first:
+      213: -5738438530608094093
+    second: MapCrashVermelho_37
+  - first:
+      213: -6750333234754973790
+    second: MapCrashVermelho_38
+  - first:
+      213: -7269392439478386344
+    second: MapCrashVermelho_39
+  - first:
+      213: -6129041219818021427
+    second: MapCrashVermelho_40
+  - first:
+      213: -4898663428390203855
+    second: MapCrashVermelho_41
+  - first:
+      213: 8220987357670757797
+    second: MapCrashVermelho_42
+  - first:
+      213: -8906332307880776776
+    second: MapCrashVermelho_43
+  - first:
+      213: 3246931277185607955
+    second: MapCrashVermelho_44
+  - first:
+      213: -1769661368870772698
+    second: MapCrashVermelho_45
+  - first:
+      213: 1356010212125546724
+    second: MapCrashVermelho_46
+  - first:
+      213: -6217892821980176232
+    second: MapCrashVermelho_47
+  - first:
+      213: -3131263713935841266
+    second: MapCrashVermelho_48
+  - first:
+      213: -4052291273137189172
+    second: MapCrashVermelho_49
+  - first:
+      213: 1423922715074657595
+    second: MapCrashVermelho_50
+  - first:
+      213: -1011528360652852954
+    second: MapCrashVermelho_51
+  - first:
+      213: -4558298454281059204
+    second: MapCrashVermelho_52
+  - first:
+      213: 1908801712779512990
+    second: MapCrashVermelho_53
+  - first:
+      213: 2085774483688061672
+    second: MapCrashVermelho_54
+  - first:
+      213: -6207863753211376713
+    second: MapCrashVermelho_55
+  - first:
+      213: -3461386580404736826
+    second: MapCrashVermelho_56
+  - first:
+      213: -7261987294037540554
+    second: MapCrashVermelho_57
+  - first:
+      213: 1488104077832269503
+    second: MapCrashVermelho_58
+  - first:
+      213: -3886035390190081211
+    second: MapCrashVermelho_59
+  - first:
+      213: -8028099203145077288
+    second: MapCrashVermelho_60
+  - first:
+      213: -7910447442078438628
+    second: MapCrashVermelho_61
+  - first:
+      213: -4128413073326863238
+    second: MapCrashVermelho_62
+  - first:
+      213: 4998902348297080553
+    second: MapCrashVermelho_63
+  - first:
+      213: -4077352793396615844
+    second: MapCrashVermelho_64
+  - first:
+      213: 8249208521180739505
+    second: MapCrashVermelho_65
+  - first:
+      213: 1402488391870732665
+    second: MapCrashVermelho_66
+  - first:
+      213: -6668524949892190610
+    second: MapCrashVermelho_67
+  - first:
+      213: -6176323464578994945
+    second: MapCrashVermelho_68
+  - first:
+      213: 6732462813521661274
+    second: MapCrashVermelho_69
+  - first:
+      213: -1265282481825801765
+    second: MapCrashVermelho_70
+  - first:
+      213: -5738702280495518959
+    second: MapCrashVermelho_71
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapCrashVermelho_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faa3ab9115cef520800000000000000
+      internalID: 2737842302904150772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 415
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4489deb31c8127f50800000000000000
+      internalID: 6877586799161350212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 415
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a38037bf12ffdd0800000000000000
+      internalID: -2450202308415833539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 415
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d268ba368c361f30800000000000000
+      internalID: 4545887421085541081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 415
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627cb0ffeab3a390800000000000000
+      internalID: -7808191789231476117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 444
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c556796541294c170800000000000000
+      internalID: 8197837837770909020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 447
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f1f7b52c5f17d0800000000000000
+      internalID: -2945534314207381156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 427
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f782e0da046c5a0800000000000000
+      internalID: -6501437900051677314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 448
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1074674c304df570800000000000000
+      internalID: 8502022299185344538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 447
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c958f8cb220b218e0800000000000000
+      internalID: -1724122044090579556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 447
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44eea8826770c90800000000000000
+      internalID: -7203659162454178621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 427
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fef7a73db9000d0800000000000000
+      internalID: -3458593181224931568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 427
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b971243f29ac365b0800000000000000
+      internalID: -5376230797655009381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 427
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fec2951624abaa90800000000000000
+      internalID: -7301561887373472011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 438
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59630be7e1988f1c0800000000000000
+      internalID: -4469671866097715563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 434
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934b6cb228603a340800000000000000
+      internalID: 4873746377894966329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 411
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6cfb55b19c67be0800000000000000
+      internalID: -1479774308304697660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5dfc9c0b13790a0800000000000000
+      internalID: -6874971670787926549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 371
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbef77181b52910800000000000000
+      internalID: 1812049594708573301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 371
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4c2e07b8b2f180800000000000000
+      internalID: -9082994402096558101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 370
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b15748eaf50f200800000000000000
+      internalID: 211774385637628829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 369
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c531711a7c3b920800000000000000
+      internalID: 3004964871077059728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 369
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94669b5227b39c8e0800000000000000
+      internalID: -1672740425146210743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 369
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7566ff749a2f10f0800000000000000
+      internalID: -1144148963038435972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 369
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e857b2d931a30b0800000000000000
+      internalID: -5748260408625099245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 369
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4ff8087a775160800000000000000
+      internalID: 7014209600618450518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 369
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb76dd1a19ac76d0800000000000000
+      internalID: -2991330122846012476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 369
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea60331251c53f2b0800000000000000
+      internalID: -5551992669796628818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336968b920a9313c0800000000000000
+      internalID: -4389995875766200781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 314
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f130c6a7352b1130800000000000000
+      internalID: 3538462853180699127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 314
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245e8725540a37230800000000000000
+      internalID: 3635425543814964546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 314
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190fc3a8b7b2b7240800000000000000
+      internalID: 4790470438238875793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 316
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08760b041a69de120800000000000000
+      internalID: 2444775792051251072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 315
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6591b6a35bd89020800000000000000
+      internalID: 2348868357999138158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e692e9812a7ea310800000000000000
+      internalID: 1418205217134122726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade6dde5e462d6700800000000000000
+      internalID: 535126048767831770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 271
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f848f16640d4cc790800000000000000
+      internalID: -7508541797444909937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 271
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a0b95f88fc50b0800000000000000
+      internalID: -5738438530608094093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 213
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af8ae210bff152a0800000000000000
+      internalID: -6750333234754973790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 215
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8510bf7571eed1b90800000000000000
+      internalID: -7269392439478386344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 215
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd150fcb7541faa0800000000000000
+      internalID: -6129041219818021427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 212
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eca9ce093740cb0800000000000000
+      internalID: -4898663428390203855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 222
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a551f4f170d61270800000000000000
+      internalID: 8220987357670757797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 241
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb6e2924f9566480800000000000000
+      internalID: -8906332307880776776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_44
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 215
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319e0ca2bca6f0d20800000000000000
+      internalID: 3246931277185607955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_45
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 207
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620e9bf6c56e077e0800000000000000
+      internalID: -1769661368870772698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 214
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89b8d7a1481d210800000000000000
+      internalID: 1356010212125546724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 213
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ab661c6b95b9a0800000000000000
+      internalID: -6217892821980176232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 216
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a8c80e348b84d0800000000000000
+      internalID: -3131263713935841266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce0e3a9e8e53c7c0800000000000000
+      internalID: -4052291273137189172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 155
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d72a34a2ac2c310800000000000000
+      internalID: 1423922715074657595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 155
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621bd07b05456f1f0800000000000000
+      internalID: -1011528360652852954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 155
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c748d5ce4bbadb0c0800000000000000
+      internalID: -4558298454281059204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 155
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c41e46b0d6d7a10800000000000000
+      internalID: 1908801712779512990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 148
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eafccd87d822fc10800000000000000
+      internalID: 2085774483688061672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 110
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb00df9ecc39d9a0800000000000000
+      internalID: -6207863753211376713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccebac8e3fa6ffc0800000000000000
+      internalID: -3461386580404736826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 109
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6310e7f180d383b90800000000000000
+      internalID: -7261987294037540554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_58
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 109
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbea00446cec6a410800000000000000
+      internalID: 1488104077832269503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_59
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 112
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54baf17d667021ac0800000000000000
+      internalID: -3886035390190081211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_60
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 111
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dde0f63f46769090800000000000000
+      internalID: -8028099203145077288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 110
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b648876f1783290800000000000000
+      internalID: -7910447442078438628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_62
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 109
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c064ede2ee4b6c0800000000000000
+      internalID: -4128413073326863238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee0d11533baf5540800000000000000
+      internalID: 4998902348297080553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55e5a5bc355a67c0800000000000000
+      internalID: -4077352793396615844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_65
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 59
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b77a1f91731b7270800000000000000
+      internalID: 8249208521180739505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979501ff2c3a67310800000000000000
+      internalID: 1402488391870732665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ea8d1b3e3a473a0800000000000000
+      internalID: -6668524949892190610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcebd3588a494aa0800000000000000
+      internalID: -6176323464578994945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d4c7f32438e6d50800000000000000
+      internalID: 6732462813521661274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd99f3a5940d07ee0800000000000000
+      internalID: -1265282481825801765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapCrashVermelho_71
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b275b4ea80c50b0800000000000000
+      internalID: -5738702280495518959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0fbbbfbf983a74b458540ecad009908f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MapCrashVermelho_0: 2737842302904150772
+      MapCrashVermelho_1: 6877586799161350212
+      MapCrashVermelho_10: -7203659162454178621
+      MapCrashVermelho_11: -3458593181224931568
+      MapCrashVermelho_12: -5376230797655009381
+      MapCrashVermelho_13: -7301561887373472011
+      MapCrashVermelho_14: -4469671866097715563
+      MapCrashVermelho_15: 4873746377894966329
+      MapCrashVermelho_16: -1479774308304697660
+      MapCrashVermelho_17: -6874971670787926549
+      MapCrashVermelho_18: 1812049594708573301
+      MapCrashVermelho_19: -9082994402096558101
+      MapCrashVermelho_2: -2450202308415833539
+      MapCrashVermelho_20: 211774385637628829
+      MapCrashVermelho_21: 3004964871077059728
+      MapCrashVermelho_22: -1672740425146210743
+      MapCrashVermelho_23: -1144148963038435972
+      MapCrashVermelho_24: -5748260408625099245
+      MapCrashVermelho_25: 7014209600618450518
+      MapCrashVermelho_26: -2991330122846012476
+      MapCrashVermelho_27: -5551992669796628818
+      MapCrashVermelho_28: -4389995875766200781
+      MapCrashVermelho_29: 3538462853180699127
+      MapCrashVermelho_3: 4545887421085541081
+      MapCrashVermelho_30: 3635425543814964546
+      MapCrashVermelho_31: 4790470438238875793
+      MapCrashVermelho_32: 2444775792051251072
+      MapCrashVermelho_33: 2348868357999138158
+      MapCrashVermelho_34: 1418205217134122726
+      MapCrashVermelho_35: 535126048767831770
+      MapCrashVermelho_36: -7508541797444909937
+      MapCrashVermelho_37: -5738438530608094093
+      MapCrashVermelho_38: -6750333234754973790
+      MapCrashVermelho_39: -7269392439478386344
+      MapCrashVermelho_4: -7808191789231476117
+      MapCrashVermelho_40: -6129041219818021427
+      MapCrashVermelho_41: -4898663428390203855
+      MapCrashVermelho_42: 8220987357670757797
+      MapCrashVermelho_43: -8906332307880776776
+      MapCrashVermelho_44: 3246931277185607955
+      MapCrashVermelho_45: -1769661368870772698
+      MapCrashVermelho_46: 1356010212125546724
+      MapCrashVermelho_47: -6217892821980176232
+      MapCrashVermelho_48: -3131263713935841266
+      MapCrashVermelho_49: -4052291273137189172
+      MapCrashVermelho_5: 8197837837770909020
+      MapCrashVermelho_50: 1423922715074657595
+      MapCrashVermelho_51: -1011528360652852954
+      MapCrashVermelho_52: -4558298454281059204
+      MapCrashVermelho_53: 1908801712779512990
+      MapCrashVermelho_54: 2085774483688061672
+      MapCrashVermelho_55: -6207863753211376713
+      MapCrashVermelho_56: -3461386580404736826
+      MapCrashVermelho_57: -7261987294037540554
+      MapCrashVermelho_58: 1488104077832269503
+      MapCrashVermelho_59: -3886035390190081211
+      MapCrashVermelho_6: -2945534314207381156
+      MapCrashVermelho_60: -8028099203145077288
+      MapCrashVermelho_61: -7910447442078438628
+      MapCrashVermelho_62: -4128413073326863238
+      MapCrashVermelho_63: 4998902348297080553
+      MapCrashVermelho_64: -4077352793396615844
+      MapCrashVermelho_65: 8249208521180739505
+      MapCrashVermelho_66: 1402488391870732665
+      MapCrashVermelho_67: -6668524949892190610
+      MapCrashVermelho_68: -6176323464578994945
+      MapCrashVermelho_69: 6732462813521661274
+      MapCrashVermelho_7: -6501437900051677314
+      MapCrashVermelho_70: -1265282481825801765
+      MapCrashVermelho_71: -5738702280495518959
+      MapCrashVermelho_8: 8502022299185344538
+      MapCrashVermelho_9: -1724122044090579556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

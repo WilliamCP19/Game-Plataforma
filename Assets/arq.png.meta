@@ -1,0 +1,2728 @@
+fileFormatVersion: 2
+guid: 32825a0eb51e5f44fa3e13ce7b11ce7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4828841727877883449
+    second: arq_0
+  - first:
+      213: -1802289502668578112
+    second: arq_1
+  - first:
+      213: -2556533933635582535
+    second: arq_2
+  - first:
+      213: 7466858588659267751
+    second: arq_3
+  - first:
+      213: -2610252102123467111
+    second: arq_4
+  - first:
+      213: -3385686043767983002
+    second: arq_5
+  - first:
+      213: -206487329383253146
+    second: arq_6
+  - first:
+      213: -3985340617543799148
+    second: arq_7
+  - first:
+      213: 7277387199078595308
+    second: arq_8
+  - first:
+      213: 6224459149734756715
+    second: arq_9
+  - first:
+      213: -6938421422324327568
+    second: arq_10
+  - first:
+      213: 3100009005747207015
+    second: arq_11
+  - first:
+      213: -4978800366357136521
+    second: arq_12
+  - first:
+      213: -6641732283568596844
+    second: arq_13
+  - first:
+      213: -5101498081673792043
+    second: arq_14
+  - first:
+      213: -5460737640877847355
+    second: arq_15
+  - first:
+      213: 1162872100533900637
+    second: arq_16
+  - first:
+      213: -2636035876965832994
+    second: arq_17
+  - first:
+      213: 1663966482930703262
+    second: arq_18
+  - first:
+      213: -5331989280191524122
+    second: arq_19
+  - first:
+      213: 6296263874310473992
+    second: arq_20
+  - first:
+      213: -380517021576157042
+    second: arq_21
+  - first:
+      213: 2074886848232787298
+    second: arq_22
+  - first:
+      213: 1257462416160495785
+    second: arq_23
+  - first:
+      213: 5434240813657555721
+    second: arq_24
+  - first:
+      213: 4194655434107469691
+    second: arq_25
+  - first:
+      213: 4437847215975335526
+    second: arq_26
+  - first:
+      213: -7329037067272842115
+    second: arq_27
+  - first:
+      213: 979470704269506672
+    second: arq_28
+  - first:
+      213: 303241106812752806
+    second: arq_29
+  - first:
+      213: -257365388118057170
+    second: arq_30
+  - first:
+      213: -1719777303180560361
+    second: arq_31
+  - first:
+      213: 2189910418515658094
+    second: arq_32
+  - first:
+      213: 887659637389242118
+    second: arq_33
+  - first:
+      213: -5294798670548629031
+    second: arq_34
+  - first:
+      213: 4924284207894405741
+    second: arq_35
+  - first:
+      213: -1323558573549419564
+    second: arq_36
+  - first:
+      213: 6675849314945407689
+    second: arq_37
+  - first:
+      213: 5249103114812791605
+    second: arq_38
+  - first:
+      213: -8187452359844845544
+    second: arq_39
+  - first:
+      213: 9104878174285366909
+    second: arq_40
+  - first:
+      213: 877541174513920909
+    second: arq_41
+  - first:
+      213: -6901477117064568524
+    second: arq_42
+  - first:
+      213: -7390383143546766636
+    second: arq_43
+  - first:
+      213: -4364606890967242275
+    second: arq_44
+  - first:
+      213: -3351193320581336435
+    second: arq_45
+  - first:
+      213: -106426785443247086
+    second: arq_46
+  - first:
+      213: -4248932950678406703
+    second: arq_47
+  - first:
+      213: -7469485717405315331
+    second: arq_48
+  - first:
+      213: -7935676097409480163
+    second: arq_49
+  - first:
+      213: 5828869393175912073
+    second: arq_50
+  - first:
+      213: 6779266201733191798
+    second: arq_51
+  - first:
+      213: 9206908560375631186
+    second: arq_52
+  - first:
+      213: 612641647218633475
+    second: arq_53
+  - first:
+      213: 7070043421856386047
+    second: arq_54
+  - first:
+      213: -2058978465684889937
+    second: arq_55
+  - first:
+      213: -8791165457536158621
+    second: arq_56
+  - first:
+      213: -9076651019630005207
+    second: arq_57
+  - first:
+      213: -6124873442048623267
+    second: arq_58
+  - first:
+      213: 1231798560310639731
+    second: arq_59
+  - first:
+      213: 2351745173633305617
+    second: arq_60
+  - first:
+      213: -6894308977467303513
+    second: arq_61
+  - first:
+      213: -7214775819324545520
+    second: arq_62
+  - first:
+      213: -1375611411662665752
+    second: arq_63
+  - first:
+      213: 4028521733718790969
+    second: arq_64
+  - first:
+      213: -3430528633190843941
+    second: arq_65
+  - first:
+      213: -3508008959207175811
+    second: arq_66
+  - first:
+      213: -2174463099060033349
+    second: arq_67
+  - first:
+      213: 7034568965834874005
+    second: arq_68
+  - first:
+      213: 1490791442005392803
+    second: arq_69
+  - first:
+      213: 1215239393687251234
+    second: arq_70
+  - first:
+      213: -6586029817877274692
+    second: arq_71
+  - first:
+      213: -167789429365413501
+    second: arq_72
+  - first:
+      213: -7835854682140681749
+    second: arq_73
+  - first:
+      213: 874540570603777710
+    second: arq_74
+  - first:
+      213: 3170207980138576652
+    second: arq_75
+  - first:
+      213: 3724369821194459628
+    second: arq_76
+  - first:
+      213: 2309829490975834141
+    second: arq_77
+  - first:
+      213: -1350605148106103217
+    second: arq_78
+  - first:
+      213: 3985567638199241007
+    second: arq_79
+  - first:
+      213: 7788526467989552326
+    second: arq_80
+  - first:
+      213: -3845248692414569834
+    second: arq_81
+  - first:
+      213: 4705503725755030391
+    second: arq_82
+  - first:
+      213: -8014166853171660425
+    second: arq_83
+  - first:
+      213: 5553845747213885271
+    second: arq_84
+  - first:
+      213: 752509509367831219
+    second: arq_85
+  - first:
+      213: -1113006405940834851
+    second: arq_86
+  - first:
+      213: -8051210128347264480
+    second: arq_87
+  - first:
+      213: -6633218464473300947
+    second: arq_88
+  - first:
+      213: 2748236014081209990
+    second: arq_89
+  - first:
+      213: -1254942030406152424
+    second: arq_90
+  - first:
+      213: 3404603652241020088
+    second: arq_91
+  - first:
+      213: 4399526774787759450
+    second: arq_92
+  - first:
+      213: 6582635455155996189
+    second: arq_93
+  - first:
+      213: -3234926479779308899
+    second: arq_94
+  - first:
+      213: 5116341624598713088
+    second: arq_95
+  - first:
+      213: -5770228902279118528
+    second: arq_96
+  - first:
+      213: -3621160686680038440
+    second: arq_97
+  - first:
+      213: -1605046736580616262
+    second: arq_98
+  - first:
+      213: 62808381557502817
+    second: arq_99
+  - first:
+      213: -5176987895669612173
+    second: arq_100
+  - first:
+      213: 986906619195140823
+    second: arq_101
+  - first:
+      213: 68254654770791639
+    second: arq_102
+  - first:
+      213: 6061370049967823479
+    second: arq_103
+  - first:
+      213: -2211515037326997352
+    second: arq_104
+  - first:
+      213: 8776191730607316210
+    second: arq_105
+  - first:
+      213: -2994743254624787327
+    second: arq_106
+  - first:
+      213: 8058177120248638779
+    second: arq_107
+  - first:
+      213: 7371599449055120191
+    second: arq_108
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arq_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9514568028cfcb0800000000000000
+      internalID: -4828841727877883449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 359
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2260b0f3bfcf6e0800000000000000
+      internalID: -1802289502668578112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 359
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b54b65beed558cd0800000000000000
+      internalID: -2556533933635582535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 359
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a83c15435c9f9760800000000000000
+      internalID: 7466858588659267751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 359
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec6b6fa8586cbd0800000000000000
+      internalID: -2610252102123467111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 359
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66436383b70a301d0800000000000000
+      internalID: -3385686043767983002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 359
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bfd713ed8622df0800000000000000
+      internalID: -206487329383253146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 359
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ead56d2d931b8c0800000000000000
+      internalID: -3985340617543799148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 359
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafd0ea9197ef460800000000000000
+      internalID: 7277387199078595308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 359
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61ceda3e98b16650800000000000000
+      internalID: 6224459149734756715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 359
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bd56c4a76c5bf90800000000000000
+      internalID: -6938421422324327568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 359
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bf21424c1750b20800000000000000
+      internalID: 3100009005747207015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 310
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb2b3127fb7eab0800000000000000
+      internalID: -4978800366357136521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 310
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49856a07da3d3d3a0800000000000000
+      internalID: -6641732283568596844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 310
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d53f7b0686d339b0800000000000000
+      internalID: -5101498081673792043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 310
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0fdf3c009734b0800000000000000
+      internalID: -5460737640877847355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 323
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d551987a30a532010800000000000000
+      internalID: 1162872100533900637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 310
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed62442165bea6bd0800000000000000
+      internalID: -2636035876965832994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 310
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b9d3d33b8971710800000000000000
+      internalID: 1663966482930703262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 310
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e25effeff7f006b0800000000000000
+      internalID: -5331989280191524122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_20
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 310
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809866872a2d06750800000000000000
+      internalID: 6296263874310473992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_21
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 323
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a6f1f8c128baf0800000000000000
+      internalID: -380517021576157042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 262
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d8b02689a7bcc10800000000000000
+      internalID: 2074886848232787298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 262
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a896a9b767637110800000000000000
+      internalID: 1257462416160495785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 262
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030df96a3d4a6b40800000000000000
+      internalID: 5434240813657555721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 262
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3321a4e8663a30800000000000000
+      internalID: 4194655434107469691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 268
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6668aabb786669d30800000000000000
+      internalID: 4437847215975335526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_27
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 262
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7418834e970a4a90800000000000000
+      internalID: -7329037067272842115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_28
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 262
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078b2e38a67c79d00800000000000000
+      internalID: 979470704269506672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 262
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3ded41e24553400800000000000000
+      internalID: 303241106812752806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_30
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 262
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f1eb70b87ad6cf0800000000000000
+      internalID: -257365388118057170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_31
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 268
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718b42f87af1228e0800000000000000
+      internalID: -1719777303180560361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 213
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e658d894cef146e10800000000000000
+      internalID: 2189910418515658094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_33
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 213
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa908bcb9915c00800000000000000
+      internalID: 887659637389242118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 213
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90db489a81586b0800000000000000
+      internalID: -5294798670548629031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 213
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62ac98a562965440800000000000000
+      internalID: 4924284207894405741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d30a286d76c1ade0800000000000000
+      internalID: -1323558573549419564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 213
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1b5fe49165ac50800000000000000
+      internalID: 6675849314945407689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 213
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b10d3d87f88d840800000000000000
+      internalID: 5249103114812791605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_39
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 213
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a30c2573506e80800000000000000
+      internalID: -8187452359844845544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_40
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 213
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d768c75b5760b5e70800000000000000
+      internalID: 9104878174285366909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_41
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 222
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6eae7c07ad2c00800000000000000
+      internalID: 877541174513920909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43121eba0270930a0800000000000000
+      internalID: -6901477117064568524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da3cd6dfa5107990800000000000000
+      internalID: -7390383143546766636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9eca7482dcd63c0800000000000000
+      internalID: -4364606890967242275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8276192e6b2e71d0800000000000000
+      internalID: -3351193320581336435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_46
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 194
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c811b0765e58ef0800000000000000
+      internalID: -106426785443247086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d97c504ef1c805c0800000000000000
+      internalID: -4248932950678406703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_48
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec337a05e075890800000000000000
+      internalID: -7469485717405315331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a895962a0ded190800000000000000
+      internalID: -7935676097409480163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_50
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e956694dd44e050800000000000000
+      internalID: 5828869393175912073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_51
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6785e1041bac41e50800000000000000
+      internalID: 6779266201733191798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_52
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d41bc2e8285cf70800000000000000
+      internalID: 9206908560375631186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_53
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 189
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ba31d055a808800800000000000000
+      internalID: 612641647218633475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_54
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 160
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb46529807dd1260800000000000000
+      internalID: 7070043421856386047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 161
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5ca09ef90d63e0800000000000000
+      internalID: -2058978465684889937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_56
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 161
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647fdd08918ff580800000000000000
+      internalID: -8791165457536158621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_57
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 191
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92434c0ecf1490280800000000000000
+      internalID: -9076651019630005207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_58
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db7703e04100ba0800000000000000
+      internalID: -6124873442048623267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_59
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 192
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c3726a34a381110800000000000000
+      internalID: 1231798560310639731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_60
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c07ac76c313a020800000000000000
+      internalID: 2351745173633305617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_61
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9564a338e7250a0800000000000000
+      internalID: -6894308977467303513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_62
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016251b2e97ffdb90800000000000000
+      internalID: -7214775819324545520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_63
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e78fda95b8d8ece0800000000000000
+      internalID: -1375611411662665752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_64
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933df3c3c2f28e730800000000000000
+      internalID: 4028521733718790969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_65
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 189
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97ad242605460d0800000000000000
+      internalID: -3430528633190843941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 161
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798195107c015fc0800000000000000
+      internalID: -3508008959207175811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_67
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 161
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8e45b0551c2d1e0800000000000000
+      internalID: -2174463099060033349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 161
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1394243fcf9160800000000000000
+      internalID: 7034568965834874005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_69
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad7ceefaea50b410800000000000000
+      internalID: 1490791442005392803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 161
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2292ac93ac56dd010800000000000000
+      internalID: 1215239393687251234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 187
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf5b4166c8b994a0800000000000000
+      internalID: -6586029817877274692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_72
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 161
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389eb992764ebadf0800000000000000
+      internalID: -167789429365413501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_73
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 186
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be95c67cea3714390800000000000000
+      internalID: -7835854682140681749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_74
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 161
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6184f30ef22c00800000000000000
+      internalID: 874540570603777710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_75
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 161
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb4488c57defb20800000000000000
+      internalID: 3170207980138576652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_76
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 161
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce91b7cae9e9fa330800000000000000
+      internalID: 3724369821194459628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_77
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 161
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10065d1fa92e0020800000000000000
+      internalID: 2309829490975834141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_78
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 161
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46625b06cfa14de0800000000000000
+      internalID: -1350605148106103217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_79
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 186
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29882786a49f4730800000000000000
+      internalID: 3985567638199241007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_80
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 161
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccbe38ae87661c60800000000000000
+      internalID: 7788526467989552326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_81
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 186
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692289fefaee2aac0800000000000000
+      internalID: -3845248692414569834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_82
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 112
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bd7ee25be4d4140800000000000000
+      internalID: 4705503725755030391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793ef935b5f7c090800000000000000
+      internalID: -8014166853171660425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_84
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 112
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f5ff31849331d40800000000000000
+      internalID: 5553845747213885271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 112
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba19fb6963717a00800000000000000
+      internalID: 752509509367831219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 112
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd892d129ecd80f0800000000000000
+      internalID: -1113006405940834851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 112
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a85df9b0b544090800000000000000
+      internalID: -8051210128347264480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_88
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 112
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20c18b63f212f3a0800000000000000
+      internalID: -6633218464473300947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 112
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686fe321812b32620800000000000000
+      internalID: 2748236014081209990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_90
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 112
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0fef4fdc859ee0800000000000000
+      internalID: -1254942030406152424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_91
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 112
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4d2dcbbf49f3f20800000000000000
+      internalID: 3404603652241020088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_92
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d5b0fba424e0d30800000000000000
+      internalID: 4399526774787759450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_93
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 112
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d160776f1183a5b50800000000000000
+      internalID: 6582635455155996189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 60
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9adf3a818b3b13d0800000000000000
+      internalID: -3234926479779308899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_95
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 61
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00350cb9995e00740800000000000000
+      internalID: 5116341624598713088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 61
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04106f6a2670cefa0800000000000000
+      internalID: -5770228902279118528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3a3db8a8d0fbdc0800000000000000
+      internalID: -3621160686680038440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_98
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 10
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf563a3f7ab9b9e0800000000000000
+      internalID: -1605046736580616262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163f6a7e3e32fd000800000000000000
+      internalID: 62808381557502817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_100
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 10
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ad1010f4a728b0800000000000000
+      internalID: -5176987895669612173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_101
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daab9f575232bd00800000000000000
+      internalID: 986906619195140823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_102
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 10
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d441e33f3d72f000800000000000000
+      internalID: 68254654770791639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 10
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a168822ff4e1450800000000000000
+      internalID: 6061370049967823479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_104
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 10
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89880b86ace1f41e0800000000000000
+      internalID: -2211515037326997352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_105
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 10
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd19771eb4bc970800000000000000
+      internalID: 8776191730607316210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_106
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 10
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184a79270e88076d0800000000000000
+      internalID: -2994743254624787327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 10
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3da995956564df60800000000000000
+      internalID: 8058177120248638779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arq_108
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 37
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b456b74ae2d4660800000000000000
+      internalID: 7371599449055120191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
